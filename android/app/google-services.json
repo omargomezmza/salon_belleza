@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415739142672",
+    "project_id": "salon-belleza-2cf6c",
+    "storage_bucket": "salon-belleza-2cf6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415739142672:android:41c7392cffaa804deca095",
+        "android_client_info": {
+          "package_name": "com.tu_salon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415739142672-c8g475874iskcu54vbhv4bcvrf9qjfjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tu_salon.app",
+            "certificate_hash": "79443fea9f09d78a0f1a2650926c1587f2657934"
+          }
+        },
+        {
+          "client_id": "415739142672-obmurqc8796hso2837orpqrqkur8movh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBss5ho1KqwMFe6gCOHTCDPwjjt_r8aMNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415739142672-obmurqc8796hso2837orpqrqkur8movh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
