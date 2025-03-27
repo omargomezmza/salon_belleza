@@ -7,20 +7,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:415739142672:android:41c7392cffaa804deca095",
+        "mobilesdk_app_id": "1:415739142672:android:416a53ee656bce91eca095",
         "android_client_info": {
-          "package_name": "com.tu_salon.app"
+          "package_name": "com.appsalon.app"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "415739142672-c8g475874iskcu54vbhv4bcvrf9qjfjq.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.tu_salon.app",
-            "certificate_hash": "79443fea9f09d78a0f1a2650926c1587f2657934"
-          }
-        },
         {
           "client_id": "415739142672-obmurqc8796hso2837orpqrqkur8movh.apps.googleusercontent.com",
           "client_type": 3
@@ -37,6 +29,13 @@
             {
               "client_id": "415739142672-obmurqc8796hso2837orpqrqkur8movh.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "415739142672-9uabv1nh61e457vmijnv401gofc5lttq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsalon.app"
+              }
             }
           ]
         }
